@@ -1,0 +1,186 @@
+body{
+    overflow-x: hidden;
+    height:500vh ;
+}
+.wrapper{
+    height:500vh ;
+}
+.nav-main{
+    padding-top: 40px;
+}
+.nav-part1{
+    font-size: 23px;
+    color: black;
+    font-weight: bolder;
+    padding-left:2rem ;
+}
+.nav-part2{
+    padding-left:14rem;
+}
+.nav-li{
+    padding-right:4rem;
+    color: black;
+}
+.nav-li a{
+    color: black;
+    font-weight: bold;
+    font-size: 17px;
+}
+.nav-part3{
+    padding-left: 5rem;
+}
+.btn-singin{
+    font-size: 17px;
+    border: 1px solid rgb(218, 214, 214);
+    border-radius: 0%;
+    font-weight: bolder;
+    width:6rem;
+}
+.form1{
+    padding: 0 1rem 0 3rem;
+}
+.btn-login{
+    font-size: 18px;
+    font-weight: bold;
+}
+.part1{
+    background-color: rgb(249,249,249);
+    height: 93vh;
+    text-align: center;
+    justify-content: center;
+    padding-top: 7rem;
+}
+.part1 h1{
+    font-size: 54px;
+    margin-bottom:2rem;
+}
+.part1 p{
+    color:rgb(86,86,86);
+    font-size: 21px;
+}
+
+.email-form input{
+    width: 300px; 
+    border-radius: 0%;
+    border-color: #fff;
+    align-items: center;
+    justify-content: center;
+    margin-left: 27rem; 
+}
+.email-form button{
+    width: 120px;
+    border-radius: 0%;
+    margin-left: 30px;
+}
+.part2{
+    height: 10vw;
+    border-bottom: 1px solid rgb(242,242,242);
+}
+.images{
+    padding-top: 50px;
+    padding-left: 80px;
+}
+.imgpart2{
+    width:3rem;
+    height:3rem;
+}
+.images p{
+    color: rgb(83,80,90);
+    font-size: 26px;
+    padding-top: 6px;
+    padding-left: 18px;
+}
+.part3{
+    /* height: 60vh; */
+    text-align: center;
+    justify-content: center;
+    padding-top: 8rem;
+}
+.part3 h1{
+    font-size: 54px;
+    margin-bottom:2rem;
+}
+.part3 p{
+    color:rgb(86,86,86);
+    font-size: 21px;
+}
+.box-edite{
+    width: 23rem;
+    /* height: 22rem; */
+    background-color: rgb(249,249,249);
+    border-radius: 0%;
+    border-color:rgb(249, 249, 249);
+    margin-top: 40px;
+    position: relative;
+}
+.card-body span{
+    font-size: 18px;
+    font-weight: bold;
+    width:3rem;
+    height:3rem;
+    padding: 20px;
+    color: #fff;
+    background-color: rgb(110,36,255);
+}
+.card-body h4{
+    padding-top: 90px;
+}
+.card-body p{
+    font-size: 17px;
+    padding-top: 40px;
+}
+.button-start{
+    color: rgb(110,36,255); 
+    border-radius: 0%; 
+     border: 1.8px solid rgb(110,36,255); 
+     padding: 12px 33px 12px 33px;
+     font-weight: bold;
+    font-size: 17px;
+}
+.button-learn{
+    color: rgb(110,36,255); 
+    border-radius: 0%; 
+     border: 1.8px solid rgb(110,36,255); 
+     padding: 12px 33px 12px 33px;
+     font-weight: bold;
+    font-size: 17px;
+}
+.part4{
+    margin-top: 20rem;
+}
+.part-drag{
+ width: 500px;
+ height: 300px;
+ background-color: rgb(139,139,139);
+ position: relative;
+ 
+}
+.circle-drag{
+    width:3rem;
+    height:3rem;
+    padding: 80px;
+    background-color: rgb(110,36,255);
+    position: absolute;
+}
+.text1-drag{
+    width: 250px;
+    height: 65px;
+    padding: 10px 0px 0px 30px ;
+    background-color: #fff;
+     position: absolute;
+}
+.text1-drag{
+    width: 250px;
+    height: 65px;
+    padding: 10px 0px 0px 30px ;
+    background-color: #fff;
+    margin-left: 200px;
+    margin-top: 170px;
+}
+.text2-drag{
+    width: 250px;
+    height: 65px;
+    padding: 10px 0px 0px 30px ;
+    background-color: #fff;
+}
+
