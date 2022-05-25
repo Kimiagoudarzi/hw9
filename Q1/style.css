@@ -1,9 +1,9 @@
 body{
     overflow-x: hidden;
-    height:500vh ;
+    height:700vh ;
 }
 .wrapper{
-    height:500vh ;
+    height:700vh ;
 }
 .nav-main{
     padding-top: 40px;
@@ -106,7 +106,6 @@ body{
 }
 .box-edite{
     width: 23rem;
-    /* height: 22rem; */
     background-color: rgb(249,249,249);
     border-radius: 0%;
     border-color:rgb(249, 249, 249);
@@ -116,11 +115,12 @@ body{
 .card-body span{
     font-size: 18px;
     font-weight: bold;
-    width:3rem;
-    height:3rem;
-    padding: 20px;
+    width:4rem;
+    height:4rem;
+    padding: 30px;
     color: #fff;
     background-color: rgb(110,36,255);
+    position: absolute;
 }
 .card-body h4{
     padding-top: 90px;
@@ -183,4 +183,35 @@ body{
     padding: 10px 0px 0px 30px ;
     background-color: #fff;
 }
-
+.part5{
+    margin-top: 16rem;
+    height: 90vh;
+}
+.button-find{
+    color: rgb(110,36,255); 
+    border-radius: 0%; 
+     border: 1.8px solid rgb(110,36,255); 
+     padding: 12px 33px 12px 33px;
+     font-weight: bold;
+    font-size: 17px;
+}
+.part5-1{
+ margin-top: 10rem;
+}
+.part5-2{
+    margin-top: 4rem;
+    padding-right:60px ;
+    padding-top: 40px;
+}
+.part6{
+    margin-top: 10rem;
+    height: 50vh;
+    background-color: rgb(110,36,255);
+}
+.part6-1{
+    color: #fff;
+    font-size: 22px;
+    position: absolute;
+    margin-top: 80px;
+    margin-left: 80px;
+}
