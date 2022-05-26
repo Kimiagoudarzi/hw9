@@ -117,10 +117,10 @@ body{
     font-weight: bold;
     width:4rem;
     height:4rem;
-    padding: 30px;
+    padding: 20px;
     color: #fff;
     background-color: rgb(110,36,255);
-    position: absolute;
+   
 }
 .card-body h4{
     padding-top: 90px;
@@ -162,27 +162,34 @@ body{
     background-color: rgb(110,36,255);
     position: absolute;
 }
-.text1-drag{
-    width: 250px;
-    height: 65px;
-    padding: 10px 0px 0px 30px ;
-    background-color: #fff;
-     position: absolute;
+.box{
+    width: 40vw;
+    height: 50vh;
+    position: relative;
 }
-.text1-drag{
-    width: 250px;
-    height: 65px;
-    padding: 10px 0px 0px 30px ;
-    background-color: #fff;
-    margin-left: 200px;
-    margin-top: 170px;
+
+.b-circle{
+    width: 9rem;
+    height: 9rem;
+    border-radius: 50%;
+    background-color: #5649CF;
+    position: absolute;
+    top: -3rem;
+    left: -0.5rem;
 }
-.text2-drag{
-    width: 250px;
-    height: 65px;
-    padding: 10px 0px 0px 30px ;
-    background-color: #fff;
+
+.box-facebook{
+    background-color: white;
+    position: absolute;
+    left: 63%;
+    top: -10%;
+    width: 65%;
 }
+.m-title h1{
+    padding-top: 12rem;
+    padding-bottom: 25rem;
+}
+
 .part5{
     margin-top: 16rem;
     height: 90vh;
@@ -208,10 +215,32 @@ body{
     height: 50vh;
     background-color: rgb(110,36,255);
 }
-.part6-1{
-    color: #fff;
-    font-size: 22px;
-    position: absolute;
-    margin-top: 80px;
-    margin-left: 80px;
-}
+
+
+.fa {
+    padding: 8px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+  .fa-facebook {
+    color: #0bc727;
+    background-color: white;
+    border-radius: 50%;
+    border: 1px solid #0bc727;
+  }
+  
+  .fa-twitter {
+
+   color: #0bc727;
+   background-color: white;
+   border-radius: 50%;
+   border: 1px solid #0bc727;
+  }
+  .fa-linkedin {
+   color: #0bc727;
+   background-color: white;
+   border-radius: 50%;
+   border: 3px solid #0bc727;
+  }
